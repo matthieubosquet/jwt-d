@@ -1,4 +1,5 @@
 #!/usr/bin/env node
-import { CliRunner } from '../dist/index.js'
+// import { CliRunner } from '../dist/index.js'
 
-CliRunner.run(process.argv);
+// CliRunner.run(process.argv);
+console.log("output");
