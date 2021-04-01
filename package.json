@@ -1,10 +1,10 @@
 {
   "name": "jwt-d",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Decode JWTs",
   "main": "index.js",
   "bin": {
-    "jwt-d": "./index.js"
+    "jwt-d": "index.js"
   },
   "files": [],
   "publishConfig": {
@@ -15,7 +15,6 @@
     "url": "https://github.com/matthieubosquet/jwt-d"
   },
   "scripts": {},
-  "dependencies": {},
   "license": "MIT",
   "keywords": [
     "Decode",
